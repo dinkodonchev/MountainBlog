@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainBlog", "MountainBlog\MountainBlog.csproj", "{F4CAFEC2-2A04-4388-AB6C-339FD15B10F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainBlog.Models", "MountainBlog.Models\MountainBlog.Models.csproj", "{DAC6742B-7452-4C34-839D-AC848E6313AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainBlog.Data", "MountainBlog.Data\MountainBlog.Data.csproj", "{8D3CF874-69BA-45FD-A1D9-47EE0F03A8F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F4CAFEC2-2A04-4388-AB6C-339FD15B10F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4CAFEC2-2A04-4388-AB6C-339FD15B10F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4CAFEC2-2A04-4388-AB6C-339FD15B10F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC6742B-7452-4C34-839D-AC848E6313AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC6742B-7452-4C34-839D-AC848E6313AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC6742B-7452-4C34-839D-AC848E6313AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC6742B-7452-4C34-839D-AC848E6313AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3CF874-69BA-45FD-A1D9-47EE0F03A8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3CF874-69BA-45FD-A1D9-47EE0F03A8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3CF874-69BA-45FD-A1D9-47EE0F03A8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3CF874-69BA-45FD-A1D9-47EE0F03A8F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
