@@ -84,3 +84,7 @@ C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\Mounta
 C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog\obj\Debug\MountainBlog.dll
 C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog\obj\Debug\MountainBlog.pdb
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog\bin\MountainBlog.Common.dll
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog\bin\AutoMapper.dll
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog\bin\MountainBlog.Common.pdb
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog\bin\AutoMapper.xml

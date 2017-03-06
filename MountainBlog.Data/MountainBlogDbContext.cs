@@ -10,7 +10,7 @@
         public MountainBlogDbContext()
             : base("MountainBlogConnection")
         {
-            //Database.SetInitializer(new MigrateDatabaseToLatestVersion<TrackingSystemDbContext, Configuration>());
+            Database.SetInitializer<MountainBlogDbContext>(null);
         }
 
         IDbSet<ApplicationUser> Users
@@ -19,7 +19,13 @@
             set;
         }
 
-        
+        IDbSet<Post> Posts
+        {
+            get;
+            set;
+        }
+
+
 
         public static MountainBlogDbContext Create()
         {

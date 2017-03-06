@@ -14,3 +14,7 @@ C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\Mounta
 C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Data\obj\Debug\MountainBlog.Data.csprojResolveAssemblyReference.cache
 C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Data\obj\Debug\MountainBlog.Data.dll
 C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Data\obj\Debug\MountainBlog.Data.pdb
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Data\obj\Debug\MountainBlog.Data.Migrations.InitialCreate.resources
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Data\obj\Debug\MountainBlog.Data.csproj.GenerateResource.Cache
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Data\obj\Debug\MountainBlog.Data.Migrations.Added_Posts.resources
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Data\obj\Debug\MountainBlog.Data.Migrations.Changed_Post_User_Id_Type.resources

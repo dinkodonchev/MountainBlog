@@ -1,0 +1,7 @@
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Common\bin\Debug\MountainBlog.Common.dll
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Common\bin\Debug\MountainBlog.Common.pdb
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Common\bin\Debug\AutoMapper.dll
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Common\bin\Debug\AutoMapper.xml
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Common\obj\Debug\MountainBlog.Common.csprojResolveAssemblyReference.cache
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Common\obj\Debug\MountainBlog.Common.dll
+C:\Users\Dinyo Donchev\Documents\Visual Studio 2015\Projects\MountainBlog\MountainBlog.Common\obj\Debug\MountainBlog.Common.pdb

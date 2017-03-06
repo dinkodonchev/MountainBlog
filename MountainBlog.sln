@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainBlog.Models", "Moun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainBlog.Data", "MountainBlog.Data\MountainBlog.Data.csproj", "{8D3CF874-69BA-45FD-A1D9-47EE0F03A8F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainBlog.Common", "MountainBlog.Common\MountainBlog.Common.csproj", "{6C2D57AD-8D1E-4F1C-9732-F2CB94EDC666}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8D3CF874-69BA-45FD-A1D9-47EE0F03A8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D3CF874-69BA-45FD-A1D9-47EE0F03A8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D3CF874-69BA-45FD-A1D9-47EE0F03A8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2D57AD-8D1E-4F1C-9732-F2CB94EDC666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2D57AD-8D1E-4F1C-9732-F2CB94EDC666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2D57AD-8D1E-4F1C-9732-F2CB94EDC666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2D57AD-8D1E-4F1C-9732-F2CB94EDC666}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

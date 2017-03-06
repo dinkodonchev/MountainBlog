@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MountainBlog.Models
 {
-    public class Post
+    public class Post : BaseModel
     {
-        public int Id { get; set; }
+        
 
         public string Title { get; set; }
 
@@ -16,7 +16,7 @@ namespace MountainBlog.Models
 
         public virtual ApplicationUser Author { get; set; }
 
-        public int AuthorId { get; set; }
+        public string AuthorId { get; set; }
 
     }
 }
